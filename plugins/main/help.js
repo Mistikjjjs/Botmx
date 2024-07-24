@@ -24,8 +24,7 @@ exports.default = {
       let info = `${star} Simple WhatsApp Bot \nBy ${setting.footer}\n\n`
       info += `Selamat ${waktu.suasana} bangsat\n@${m.sender.split('@')[0]} 🐽\n`
       info += `📝 Total Penggunaan Perintah\n ‎ ‎ ‎ ‎ ‎ ‎ Bot Kamu: ${User.getProfileData(m.sender).hitCmd} Kali\n`
-      info += `📚 Library : baileys-wa@latest\n`
-      info += `👤 Owner : wa.me/${setting.owner}\n`
+      info += `👤 Owner : wa.me/${setting.contact}\n`
       info += ` 📸 Instagram: ${sosmed}\n\n`
       info += ` Network Bot Usage :\n📥 Download: ${Download}\n📤 Upload: ${Upload}\n\n${jembut}`
       m.react('🐽', m.chat)
