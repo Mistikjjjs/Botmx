@@ -27,7 +27,7 @@ exports.default = {
       info += `👤 Owner : wa.me/${setting.contact}\n`
       info += ` 📸 Instagram: ${sosmed}\n\n`
       info += ` Network Bot Usage :\n📥 Download: ${Download}\n📤 Upload: ${Upload}\n\n${jembut}`
-      m.react('🐽', m.chat)
+      m.react('🐽')
       let top = { left, right }
       let { menu } = await Format.Plugins(header, middle, pointer, bottom, prefix, top);
       let picture = await User.profilePicture(conn, m)
