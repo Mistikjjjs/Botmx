@@ -1,1 +1,4 @@
-git clone dan install ulang ajh bang :v lebih mudah sc nya ✌peace 
+git clone https://github.com/ruhend2001/maleficent
+
+yarn or npm install
+
