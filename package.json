@@ -1,6 +1,6 @@
 {
   "name": "maleficent-bot",
-  "version": "5.5.4",
+  "version": "5.5.5",
   "description": "Bot Wea Simple Mudah Di Gunakan ",
   "main": "index.js",
   "directories": {
@@ -23,7 +23,7 @@
     "form-data": "^4.0.0",
     "human-readable": "^0.2.1",
     "jimp": "^0.16.2",
-    "utility-mf": "^5.5.4",
+    "utility-mf": "^5.5.5",
     "moment-timezone": "^0.5.34",
     "node-os-utils": "^1.3.7",
     "node-webpmux": "^3.1.1",
