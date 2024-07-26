@@ -9,7 +9,7 @@
   // Instrucciones para configurar el número de teléfono del propietario
   "readme": "Ingrese los números de teléfono del propietario según sea necesario. Puede agregar varios números, pero asegúrese de separarlos con comas para evitar errores. Instale el módulo con npm i o yarn",
   // Número de teléfono de contacto
-  "contact": "6285885709706",
+  "contact": "525628360643",
   // Nombre del bot
   "botName": "Maleficent Bot - MD",
   // Nombre del propietario
@@ -17,7 +17,7 @@
   // Pie de página
   "footer": " Ruhend",
   // Enlace a las redes sociales
-  "sosmed": "https://www.instagram.com/ru_hend_",
+  "sosmed": "https://www.instagram.com",
   // Imagen de miniatura
   "thumbnail": "https://telegra.ph/file/0aa662111090f4a70c8f4.jpg",
   // Música
