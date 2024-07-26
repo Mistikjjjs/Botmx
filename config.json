@@ -1,35 +1,62 @@
 {
+  // Números de teléfono del propietario
   "ownerNumber": [
     "62843xxxx",
     "62pppp",
     "67pppp",
     "63pppp"
   ],
-  "readme": "isi nomornya ownerNumber sesuai ada berapa no kalian mau banyak nomor juga bisa, jangan lupa tanda koma nya harus pas biar ga eror , install modul pake npm i atau yarn",
+  // Instrucciones para configurar el número de teléfono del propietario
+  "readme": "Ingrese los números de teléfono del propietario según sea necesario. Puede agregar varios números, pero asegúrese de separarlos con comas para evitar errores. Instale el módulo con npm i o yarn",
+  // Número de teléfono de contacto
   "contact": "6285885709706",
+  // Nombre del bot
   "botName": "Maleficent Bot - MD",
+  // Nombre del propietario
   "ownerName": "Ruly Henderson",
-  "footer": "© Ruhend",
+  // Pie de página
+  "footer": " Ruhend",
+  // Enlace a las redes sociales
   "sosmed": "https://www.instagram.com/ru_hend_",
+  // Imagen de miniatura
   "thumbnail": "https://telegra.ph/file/0aa662111090f4a70c8f4.jpg",
+  // Música
   "music": "https://qu.ax/fRjY.opus",
+  // Memoria RAM
   "ram": 800,
+  // Descarga automática
   "auto_dl": false,
+  // Escribe automáticamente
   "typing": false,
+  // Grabación
   "recording": true,
+  // Leer
   "read": true,
+  // Modo de solo propietario
   "self": false,
-  "readme2": "botNumber adalah nomor yang mau di jadikan bot",
+  // Instrucciones para configurar el número de teléfono del bot
+  "readme2": "El número de teléfono del bot es el número que se utilizará como bot",
+  // Número de teléfono del bot
   "botNumber": 6285885709706,
+  // Configuración de grupo
   "group": {
+    // Solo permitir mensajes en grupo
     "only": false,
+    // Solo responder con mensajes de grupo en chats privados
     "only_message": false,
-    "readme3": "only_message is response message groupOnly when group mode is active in private chat. true if wanna respond with groupOnly message, false if don't wanna respond message groupOnly in private chat ketik .set ada penjelasan nya atau lihat plugins/owner/owner-set.js",
+    // Instrucciones para configurar la respuesta de mensajes de grupo
+    "readme3": "Si se activa el modo de solo grupo en chats privados, se puede responder con mensajes de grupo. Si se establece en true, se responderá con mensajes de grupo, si se establece en false, no se responderá con mensajes de grupo en chats privados. Ver plugins/owner/owner-set.js para más información",
+    // Responder automáticamente
     "adReply": true,
+    // Limitar respuestas automáticas
     "limit_adReply": false,
+    // Limitar mensajes
     "limit_message": true,
+    // Enlace al grupo
     "link": "https://chat.whatsapp.com/LktqyJBhkOg22bM2Yp7XcI",
-    "bye": "Bye 🐽\n%user \nHas Left From %subject Group",
-    "welcome": "*Selamat Datang Babi imut 🐷*\n*%user* \n*Di 🚾 %subject*\n*Kenalan dulu yuk*\n*Nama:*\n*Umur:*\n*Asal Kota:*\n*Hoby:*\n*Merek HP:*\n"
+    // Mensaje de despedida
+    "bye": "Adiós \n%user \nHa salido del grupo %subject",
+    // Mensaje de bienvenida
+    "welcome": "*Bienvenido/a * \n*%user* \n*Al grupo *%subject*\n*Preséntate*\n*Nombre:*\n*Edad:*\n*Ciudad de origen:*\n*Hobby:*\n*Marca de teléfono:*\n"
   }
 }
