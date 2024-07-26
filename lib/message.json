@@ -1,14 +1,37 @@
 {
-    "wait": "🕒 WAIT || Tunggu Sebentar...",
-    "daftar": "Hay Ka Kamu Belum Daftar Nih Untuk Menggunakan Fitur Ini Silahkan Daftar Terlebih Dahulu Ketik .daftar nama.umur\nContoh .daftar nama 1999.24",
-    "limit": "*❗Limit Kamu Sudah Habis Tidak Bisa Gunain Fitur Ini*\n*Untuk Nambah Limit Silahkan Ketik*\n*.claim (untuk claim harian)*\n*.hour (untuk claim perjam)*\n*.claimkupon (untuk claim kupon)*\n*.claimuang (untuk claim uang)*\n*.buylimit jumlah (untuk beli limit)*\n*contoh .buylimit 10* ",
-    "banned": "❌ Kamu Telah Di Banned Tidak Bisa Menggunakan Bot\nSilahkan Konfirmasi Ke Owner",
-    "registered": "Kamu Sudah Daftar❗",
-    "disable": "‍🐽 Fitur Telah Di Matikan Owner\nChat Owner Untuk Menghidupkanya\nKetik .owner",
-    "OnlyGroup": "❗Perintah ini hanya bisa digunakan di grup",
-    "OnlyPM": "❗Perintah ini hanya bisa digunakan di private message",
-    "GrupAdmin": "❗Perintah ini hanya bisa digunakan oleh Admin Grup",   
-    "OnlyOwner": "❗Perintah ini hanya dapat digunakan oleh owner bot",
-    "premium": "❗Perintah ini khusus member premium\nhubungi owner",
-    "groupOnly": "🐒 Gunakan Di Group Saja"
+  // Mensaje de espera
+  "wait": "🕒 ESPERA || Espera un momento...",
+
+  // Mensaje de registro
+  "daftar": "Hola, parece que no estás registrado. Para utilizar esta función, debes registrarte primero. Escribe .daftar nombre.edad\nEjemplo: .daftar nombre 1999.24",
+
+  // Mensaje de límite
+  "limit": "*❗Tu límite ha expirado, no puedes utilizar esta función*\n*Para aumentar tu límite, escribe*\n*.claim (para reclamar diario)*\n*.hour (para reclamar por hora)*\n*.claimkupon (para reclamar cupón)*\n*.claimuang (para reclamar dinero)*\n*.buylimit cantidad (para comprar límite)*\n*Ejemplo: .buylimit 10*",
+
+  // Mensaje de baneo
+  "banned": "❌ Has sido baneado, no puedes utilizar el bot\nPor favor, confirma con el propietario",
+
+  // Mensaje de registro exitoso
+  "registered": "Ya estás registrado❗",
+
+  // Mensaje de función desactivada
+  "disable": "‍🐽 La función ha sido desactivada por el propietario\nChatea con el propietario para activarla\nEscribe .owner",
+
+  // Mensaje de solo grupo
+  "OnlyGroup": "❗Esta orden solo se puede utilizar en grupos",
+
+  // Mensaje de solo mensaje privado
+  "OnlyPM": "❗Esta orden solo se puede utilizar en mensajes privados",
+
+  // Mensaje de solo administrador de grupo
+  "GrupAdmin": "❗Esta orden solo se puede utilizar por administradores de grupo",
+
+  // Mensaje de solo propietario
+  "OnlyOwner": "❗Esta orden solo se puede utilizar por el propietario del bot",
+
+  // Mensaje de premium
+  "premium": "❗Esta orden es exclusiva para miembros premium\nContacta con el propietario",
+
+  // Mensaje de solo grupo (versión corta)
+  "groupOnly": "🐒 Solo se puede utilizar en grupos"
 }
